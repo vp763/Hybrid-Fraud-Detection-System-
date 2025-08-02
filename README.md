@@ -18,7 +18,7 @@ This strategic, multi-layered workflow demonstrates an ability to creatively sol
 
 ## Dataset
 This project uses the "Bank Churners" dataset from Kaggle, which contains information on over 10,000 credit card customers.
-* **Link:** `[You can add the link to the dataset here]`
+* 
 
 ---
 
